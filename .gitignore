@@ -3,3 +3,10 @@
 __pycache__
 *.db
 *.pytest_cache
+*.sqlite
+zippedData/
+zippedData/*.csv
+zippedData/*.gz
+Data/
+Data/*.csv
+Data/*.gz
