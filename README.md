@@ -47,6 +47,7 @@ What defines popular cinema primarily? It is first of all popularity and profit.
 2. How much we should spend for popularity? 
 3. Who can help us with movie creation? 
 
+# Working files:
 * <b>Genres.ipynb</b>
    Here I made a research dependence of the popularity of films on their genre and budget.
 * <b>Budget.ipynb</b>   
@@ -58,7 +59,7 @@ What defines popular cinema primarily? It is first of all popularity and profit.
 
 # Research result.
 
-presentation.pdf
+* presentation.pdf 
    
 ## Final Thoughts
 I did my best at this time. I know my data analysis does not cover a lot of questions and I cannot be proud of absolutely clear data. But now I see where to strive and what to do to improve my knowledges and skills. How important is to write a comment for all parts of your code and read logs.
