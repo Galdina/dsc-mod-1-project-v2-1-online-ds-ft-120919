@@ -1,4 +1,4 @@
-# Pay the Witcher in minted coin!
+# Toss A Coin To Your Witcher
 
 ![](images/Witcher.jpg)
 
@@ -48,6 +48,7 @@ What defines popular cinema primarily? It is first of all popularity and profit.
 3. Who can help us with movie creation? 
 
 # Working files:
+All my thoughts and progress on the project can be checked on the file <b>Student.ipynb</b>, for closer look:
 * <b>Genres.ipynb</b>
    Here I made a research dependence of the popularity of films on their genre and budget.
 * <b>Budget.ipynb</b>   
